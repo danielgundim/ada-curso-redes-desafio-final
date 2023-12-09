@@ -44,3 +44,5 @@ Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a c
 
     - O objetivo final é que os dispositivos da Rede Financeira consigam se comunicar com os dispositivos da rede do RH e da Tecnologia.  Deve ser permitido que um dispositivo da rede Financeiro acesse o site da rede RH e vice versa. Lembrando que todos os DNS´s devem ser resolvidos pelo servidor DNS da tecnologia;
 **Visão Final**:
+
+![Projeto final](projeto-final.jpg)
